@@ -1,11 +1,11 @@
-#input 
-4 
+## input 
+4
 Top Coder comp Wedn at midnight 
 one three five 
 I love Cpp 
 sj a sa df r e w f d s a v c x z sd fd 
 
-#output
+## output
 midnight Coder comp Wedn Top at 
 three five one 
 love Cpp I 
