@@ -1,5 +1,5 @@
 ## input 
-4
+4  
 Top Coder comp Wedn at midnight  
 one three five  
 I love Cpp  
